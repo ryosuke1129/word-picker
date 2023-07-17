@@ -21,7 +21,7 @@
 * LINE 公式アカウント
 * LINE Messaging API
 * AWS Lambda関数
-* AWS DynamoDB（会話履歴保存用）
+* AWS DynamoDB（項目設定保存用）
 
 ## 構築手順
 構築にあたり参考にした資料：<https://qiita.com/michitomo/items/a10465b12bcca32bf63a>
