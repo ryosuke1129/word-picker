@@ -6,7 +6,7 @@
 * ChatGPT Plusでおなじみの「GPT-4」を使用しています
 
 ### 「Word Picker」の友だち追加はこちらから
-![S_gainfriends_2dbarcodes_GW](https://user-images.githubusercontent.com/71242610/236373265-ade7b5de-26e6-48ef-bb68-94134f11d78b.png)
+![S_gainfriends_2dbarcodes_GW](https://github.com/ryosuke1129/word-picker/assets/71242610/f2fc1b95-a8df-48c4-a79e-4a3afa68fd05)
 
 <a href="https://lin.ee/3NHGiSd"><img src="https://scdn.line-apps.com/n/line_add_friends/btn/ja.png" alt="友だち追加" height="36" border="0"></a>
 
