@@ -1,9 +1,14 @@
 # Word Picker by GPT-4
 ## はじめに
-### 「Word Picker」の特徴と使い方
+### 「Word Picker」の特徴
 * OCR（Google Vision API）とGPT-4（Open AI API）を組み合わせたサービスです
-* 抽出したい項目名と画像を送信することで、欲しい情報のみをテキスト化して返してくれます
 * ChatGPT Plusでおなじみの「GPT-4」を使用しています
+* 抽出したい項目名と画像を送信することで、欲しい情報のみをテキスト化して返してくれます
+
+### 「Word Picker」の使い方
+* 項目名に「名前、住所、生年月日」を指定
+* 「免許証」の画像（スマホで撮影した写真でOK）を送信
+* Word Pickerが「免許証」から「名前、住所、生年月日」を探してテキストに起こして返信
 
 ### 「Word Picker」の友だち追加はこちらから
 ![S_gainfriends_2dbarcodes_GW](https://github.com/ryosuke1129/word-picker/assets/71242610/f2fc1b95-a8df-48c4-a79e-4a3afa68fd05)
