@@ -1,4 +1,4 @@
-# Word Picker by GPT-4
+# Word Picker on LINE OA
 ## はじめに
 ### 「Word Picker」の特徴
 * OCR（Google Vision API）とGPT-4（Open AI API）を組み合わせたサービスです
